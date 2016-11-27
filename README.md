@@ -1,4 +1,4 @@
-# gaia-web
+Aye# gaia-web
 Gaia from B2G OS, hosted in web and browser extensions (Coming Soon)
 
 # About Gaia
@@ -16,3 +16,5 @@ Firefox OS is released first under the codename "Boot to Gecko" or simply, "B2G"
 Firefox and Firefox OS are trademarks of Mozilla Foundation.
 Firefox, Firefox OS (Now B2G OS) are also made by countless people contributing to Mozilla, from the community up to the organization.
 This repository is MPL 2.0 licensed.
+
+<span style="color:#00FFBF">Made by reinhart1010</span>
